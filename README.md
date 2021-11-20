@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChiThienTran-LAB
-- 👀 I’m interested in Seach code in Google 
+- 👀 I’m interested in Searching code in Google, FullStack on Stackoverflow
 - 🌱 I’m currently learning Python, Java
 - 📫 How to reach me 0964253892 and email: chithien3203.vk.1718@gmail.com
 
